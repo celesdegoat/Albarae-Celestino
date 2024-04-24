@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\celes\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\celes\\.nuget\\packages"
+      "C:\\Users\\Anaci\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Anaci\\.nuget\\packages"
     ],
     "configProperties": {
       "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": true,

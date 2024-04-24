@@ -8,19 +8,19 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\celes\\.nuget\\packages\\": {}
+    "C:\\Users\\Anaci\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\celes\\Source\\Repos\\Albarae-Celestino\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+      "projectUniqueName": "C:\\Users\\Anaci\\Source\\Repos\\Albarae-Celestino\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
       "projectName": "WpfApp1",
-      "projectPath": "C:\\Users\\celes\\Source\\Repos\\Albarae-Celestino\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
-      "packagesPath": "C:\\Users\\celes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\celes\\Source\\Repos\\Albarae-Celestino\\WpfApp1\\WpfApp1\\obj\\",
+      "projectPath": "C:\\Users\\Anaci\\Source\\Repos\\Albarae-Celestino\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+      "packagesPath": "C:\\Users\\Anaci\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Anaci\\Source\\Repos\\Albarae-Celestino\\WpfApp1\\WpfApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\celes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Anaci\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -69,7 +69,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
