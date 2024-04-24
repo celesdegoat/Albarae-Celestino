@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\celes\\source\\repos\\Project1\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+      "projectUniqueName": "C:\\Users\\celes\\Source\\Repos\\Albarae-Celestino\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
       "projectName": "WpfApp1",
-      "projectPath": "C:\\Users\\celes\\source\\repos\\Project1\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+      "projectPath": "C:\\Users\\celes\\Source\\Repos\\Albarae-Celestino\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
       "packagesPath": "C:\\Users\\celes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\celes\\source\\repos\\Project1\\WpfApp1\\WpfApp1\\obj\\",
+      "outputPath": "C:\\Users\\celes\\Source\\Repos\\Albarae-Celestino\\WpfApp1\\WpfApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\celes\\AppData\\Roaming\\NuGet\\NuGet.Config",
