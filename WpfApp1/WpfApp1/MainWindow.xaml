@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <TextBox Width="150px" Height="20px"></TextBox>
+        <TextBox Width="150px" Height="20px" x:Name="invulveld"></TextBox>
         <Button x:Name="Btnsubmit"  Width="100px" Height="20" Margin="0,70,0,0" Click="Button_Click">SUBMIT</Button>
     </Grid>
 </Window>
