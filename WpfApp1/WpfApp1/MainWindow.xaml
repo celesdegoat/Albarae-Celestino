@@ -8,5 +8,6 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <TextBox Width="150px" Height="20px"></TextBox>
+        <Button Width="100px" Height="20" Margin="0,70,0,0">SUBMIT</Button>
     </Grid>
 </Window>
