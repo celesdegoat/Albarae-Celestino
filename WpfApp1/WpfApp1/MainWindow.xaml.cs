@@ -1,13 +1,6 @@
-﻿using System.Text;
+﻿using System;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 
 namespace WpfApp1
 {
@@ -16,14 +9,37 @@ namespace WpfApp1
     /// </summary>
     public partial class MainWindow : Window
     {
+        int randomNumber;
+
         public MainWindow()
         {
             InitializeComponent();
+            Random random = new Random();
+            randomNumber = random.Next(1, 16);
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            int plas = 13;
+            if (int.TryParse(invulveld.Text, out int enteredNumber))
+            {
+                if (enteredNumber == randomNumber)
+                {
+                    MessageBox.Show("Congratulations! You guessed the correct number.");
+                    Close();
+                }
+                else if (enteredNumber < randomNumber)
+                {
+                    MessageBox.Show("Sorry, the number is higher. Try again.");
+                }
+                else
+                {
+                    MessageBox.Show("Sorry, the number is lower. Try again.");
+                }
+            }
+            else
+            {
+                MessageBox.Show("Please enter a valid number.");
+            }
         }
     }
 }
