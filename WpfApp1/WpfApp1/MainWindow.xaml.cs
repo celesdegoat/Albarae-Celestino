@@ -14,8 +14,8 @@ namespace WpfApp1
         public MainWindow()
         {
             InitializeComponent();
-            Random random = new Random();
-            randomNumber = random.Next(1, 20);
+            Random random = new Random(); // een nieuwe random
+            randomNumber = random.Next(1, 20); // random nummer tussen 1 en 20
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
